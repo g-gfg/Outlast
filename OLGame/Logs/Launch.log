@@ -1,0 +1,571 @@
+Log: Log file open, 12/12/19 09:16:05
+Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log:  ... running in INSTALLED mode
+DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+Init: Version: 12046
+Init: Compiled (64-bit - Shipping): Apr 29 2014 14:14:59
+Init: Changelist: 22533
+Init: Command line: -installed -seekfreeloadingpcconsole
+Init: Base directory: C:\Program Files (x86)\R.G. Mechanics\Outlast\Binaries\Win64\
+Init: Executable: OLGame
+[0000.17] Init: Computer: GFGDTTCE0013
+[0000.18] Init: User: GauravBharti
+[0000.18] Init: CPU Page size=4096, Processors=4
+[0000.18] Init: High frequency timer resolution =10.000000 MHz
+[0000.18] Init: Memory total: Physical=7.9GB (7GB approx) Pagefile=9.1GB Virtual=131072.0GB
+[0000.18] Log: Steam Client API initialized 1
+[0000.18] Log: Steam Game Server API initialized 1
+[0000.18] Init: Presizing for 33476 objects not considered by GC, pre-allocating 0 bytes.
+[0000.18] Init: Object subsystem initialized
+[0000.38] Log: CachePaths() took 0.17 Seconds
+[0000.56] Log: Using D3D9 device (0): Intel(R) HD Graphics 620
+[0000.56] Log: Shader platform (RHI): PC-D3D-SM3
+[0000.59] Log: PhysX GPU Support: DISABLED
+[0010.43] Log: 60396 objects as part of root set at end of initial load.
+[0010.43] Log: 0 out of 0 bytes used by permanent object pool.
+[0010.43] Log: Initializing Engine...
+[0010.55] Log: Wwise(R) SDK Version 2013.2.3 Build 4833. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0014.08] Log: Initializing Steamworks
+[0014.11] Log: Logged in as 'RLD!'
+[0014.20] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0014.22] Warning: Warning, Failed to find object 'Class None.'
+[0014.22] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0014.22] Warning: Warning, Failed to find object 'Class None.'
+[0014.22] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0014.22] Warning: Warning, Failed to find object 'Class None.'
+[0014.22] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0014.22] Warning: Warning, Failed to find object 'Class None.'
+[0014.23] Log: Found DLC CookedPCConsoleDLC
+[0014.26] Log:  - Found 153 package files
+[0014.27] Log:  - Found 198 content files
+[0014.27] Log: Loading guid cache GuidCache_dlc1
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_Cannibal/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_Cannibal.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_Cannibal/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_Cannibal.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_DDenis/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_DDenis.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_DDenis/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_DDenis.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_Groom/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_Groom.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_Groom/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_Groom.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_PATMANIC/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATMANIC.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_PATMANIC/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATMANIC.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_PATSOCIO/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATSOCIO.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_PATSOCIO/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATSOCIO.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_PATTERR/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATTERR.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_PATTERR/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_PATTERR.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_SCICALM/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_SCICALM.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_SCICALM/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_SCICALM.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_SCITERRI/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_SCITERRI.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_AI_SCITERRI/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_AI_SCITERRI.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_AdminRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_AdminRev.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_AdminRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_AdminRev.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_Lab.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_Lab.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_Prison/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_Prison.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Blaire_Prison/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Blaire_Prison.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Cannibal_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Cannibal_Build1.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Cannibal_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Cannibal_Build1.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_DDenis_Attic/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_DDenis_Attic.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_DDenis_Attic/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_DDenis_Attic.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_FMartin/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_FMartin.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_FMartin/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_FMartin.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Groom_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Groom_Build2.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Groom_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Groom_Build2.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Groom_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Groom_Lab.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Groom_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Groom_Lab.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_AdminRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_AdminRev.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_AdminRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_AdminRev.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_Build1.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_Build1.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_Lab.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_Lab.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_MaleWard/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_MaleWard.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_MaleWard/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_MaleWard.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_PrisonRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_PrisonRev.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Guard_PrisonRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Guard_PrisonRev.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Julian/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Julian.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Julian/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Julian.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Patients_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_Build1.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Patients_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_Build1.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Patients_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_Build2.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Patients_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_Build2.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Patients_PrisonRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_PrisonRev.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_Patients_PrisonRev/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_Patients_PrisonRev.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Build1.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Build1/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Build1.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Build2.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Build2/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Build2.txt
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Lab.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_VO_SE_SCI_Lab/..\..\OLGame\CookedPCConsoleDLC\English(US)\SB_DLC_VO_SE_SCI_Lab.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Interior_01/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_Amb_Interior_01.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_ACT1_Various/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_ACT1_Various.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_ACT1_Various/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_ACT1_Various.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_ACT3_Various/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_ACT3_Various.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_ACT3_Various/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_ACT3_Various.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Admin_Block_2/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Admin_Block_2.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Admin_Block_2/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Admin_Block_2.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_AI/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_AI.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_AI/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_AI.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Ext_Courtyard/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Ext_Courtyard.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Ext_Courtyard/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Ext_Courtyard.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Female_Ward/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Female_Ward.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Female_Ward/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Female_Ward.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Male_Ward_Bsmt/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Male_Ward_Bsmt.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Male_Ward_Bsmt/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Male_Ward_Bsmt.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Male_Ward_Up_Lvls/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Male_Ward_Up_Lvls.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Male_Ward_Up_Lvls/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Male_Ward_Up_Lvls.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Prison/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Prison.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Prison/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Prison.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Sewers/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Sewers.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Patient_Sewers/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Patient_Sewers.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Priest/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Priest.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Priest/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Priest.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Soldier/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Soldier.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Soldier/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Soldier.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Surgeon/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Surgeon.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Surgeon/..\..\OLGame\CookedPCConsoleDLC\English(US)\WwiseDefaultBank_VO_Surgeon.txt
+[0014.30] DevDlc: Caching file: CharTextures_dlc1/..\..\OLGame\CookedPCConsoleDLC\CharTextures_dlc1.tfc
+[0014.30] DevDlc: Caching file: GlobalShaderCache-PC-D3D-SM3/..\..\OLGame\CookedPCConsoleDLC\GlobalShaderCache-PC-D3D-SM3.bin
+[0014.30] DevDlc: Caching file: Init/..\..\OLGame\CookedPCConsoleDLC\Init.bnk
+[0014.30] DevDlc: Caching file: Init/..\..\OLGame\CookedPCConsoleDLC\Init.txt
+[0014.30] DevDlc: Caching file: Lighting_dlc1/..\..\OLGame\CookedPCConsoleDLC\Lighting_dlc1.tfc
+[0014.30] DevDlc: Caching file: PersistentCookerShaderData/..\..\OLGame\CookedPCConsoleDLC\PersistentCookerShaderData.bin
+[0014.30] DevDlc: Caching file: PluginInfo/..\..\OLGame\CookedPCConsoleDLC\PluginInfo.xml
+[0014.30] DevDlc: Caching file: SB_DLC_MU_AdminRev/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_AdminRev.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_MU_AdminRev/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_AdminRev.txt
+[0014.30] DevDlc: Caching file: SB_DLC_MU_build1/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_build1.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_MU_build1/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_build1.txt
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Build2/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Build2.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Build2/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Build2.txt
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Denis/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Denis.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Denis/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Denis.txt
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Groom/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Groom.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Groom/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Groom.txt
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Maleward/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Maleward.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Maleward/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Maleward.txt
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Prison/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Prison.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Prison/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Prison.txt
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Stingers/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Stingers.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_MU_Stingers/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_MU_Stingers.txt
+[0014.30] DevDlc: Caching file: SB_DLC_States/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_States.bnk
+[0014.30] DevDlc: Caching file: SB_DLC_States/..\..\OLGame\CookedPCConsoleDLC\SB_DLC_States.txt
+[0014.30] DevDlc: Caching file: SoundbanksInfo/..\..\OLGame\CookedPCConsoleDLC\SoundbanksInfo.xml
+[0014.30] DevDlc: Caching file: Textures_dlc1/..\..\OLGame\CookedPCConsoleDLC\Textures_dlc1.tfc
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Basement/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Basement.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Basement/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Basement.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Courtyard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Courtyard.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Courtyard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Courtyard.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Exterior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Exterior.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Exterior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Exterior.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_FemaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_FemaleWard.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_FemaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_FemaleWard.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Generic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Generic.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Generic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Generic.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Interior_01/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Interior_01.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Interior_01/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Interior_01.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Labo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Labo.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Labo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Labo.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Male_Ward/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Male_Ward.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Male_Ward/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Male_Ward.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Prison_01/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Prison_01.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Prison_01/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Prison_01.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Sewer/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Sewer.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Amb_Sewer/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Amb_Sewer.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Attic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Attic.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Attic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Attic.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Build1.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Build1.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Build2/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Build2.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Build2/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Build2.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Ext/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Ext.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Ext/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Ext.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Lab/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Lab.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_AMB_Lab/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_AMB_Lab.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_AdminRev/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_AdminRev.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_AdminRev/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_AdminRev.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Build1.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Build1.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Build2/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Build2.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Build2/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Build2.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Lab/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Lab.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Lab/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Lab.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Prison/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Prison.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_CIN_Prison/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_CIN_Prison.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_build1.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_build1.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_Can/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_Can.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_Can/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_Can.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_generic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_generic.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_generic/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_generic.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_Impacts/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_Impacts.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_SFX_Impacts/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_SFX_Impacts.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_VO_AI_Cannibal_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_VO_AI_Cannibal_Build1.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_DLC_VO_AI_Cannibal_Build1/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_DLC_VO_AI_Cannibal_Build1.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_General_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_General_Sound.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_General_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_General_Sound.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Intro_Logo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Intro_Logo.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Intro_Logo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Intro_Logo.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Menu/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Menu.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Menu/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Menu.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Admin_Revisit/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Admin_Revisit.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Admin_Revisit/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Admin_Revisit.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Courtyard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Courtyard.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Courtyard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Courtyard.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Exterior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Exterior.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Exterior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Exterior.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_FemaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_FemaleWard.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_FemaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_FemaleWard.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Interior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Interior.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Interior/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Interior.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Labo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Labo.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Labo/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Labo.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_MaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_MaleWard.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_MaleWard/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_MaleWard.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Prison/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Prison.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Prison/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Prison.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Sewer/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Sewer.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Music_Sewer/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Music_Sewer.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_NPCs_Sounds/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_NPCs_Sounds.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_NPCs_Sounds/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_NPCs_Sounds.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Player_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Player_Sound.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Player_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Player_Sound.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Reverb/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Reverb.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Reverb/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Reverb.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_SFX/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_SFX.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_SFX/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_SFX.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Soldier_Snd/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Soldier_Snd.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Soldier_Snd/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Soldier_Snd.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Swarm_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Swarm_Sound.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_Swarm_Sound/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_Swarm_Sound.txt
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Miles/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_VO_Miles.bnk
+[0014.30] DevDlc: Caching file: WwiseDefaultBank_VO_Miles/..\..\OLGame\CookedPCConsoleDLC\WwiseDefaultBank_VO_Miles.txt
+[0014.30] Log: DLC installed successfully
+[0014.30] Log: LoadMap: DLC_Intro_Persistent?Name=Player?Team=255
+[0014.33] Log: Game class is 'OLGame'
+[0014.35] Log: Primary PhysX scene will be in software.
+[0014.35] Log: Creating Primary PhysX Scene.
+[0014.46] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[0014.46] Log: Bringing World DLC_Intro_Persistent.TheWorld up for play (0) at 2019.12.12-09.16.19
+[0014.46] Log: Bringing up level for play took: 0.117048
+[0014.47] Log: Playing DLC - invalid checkpoint but DLC persistent
+[0014.48] Error: Can't start an online game that hasn't been created
+[0014.69] Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[0014.69] Log: ########### Finished loading level: 0.381066 seconds
+[0014.69] Log: Flushing async loaders.
+[0014.78] Log: Flushed async loaders.
+[0014.78] Log: Initializing Engine Completed
+[0015.36] Log: >>>>>>>>>>>>>> Initial startup: 15.36s <<<<<<<<<<<<<<<
+[0015.40] Log: ActivateLevel dlc_mainmenugame 1 1 1
+[0015.40] Log: ### Applying resolution 1280 x 720 (Fullscreen: yes)
+[0015.45] Log: Don't use 'IsSteamSocketsServer' on non-listen-server clients; crashing
+[0015.45] Log: Don't use 'IsSteamSocketsServer' on non-listen-server clients; crashing
+[0015.45] Log: Steam game server UID: 85568397216006720
+[0016.35] Log: Flushing async loaders.
+[0016.45] Log: Flushed async loaders.
+[0016.46] Log:  ### --- Resetting level dlc_checkpoints
+[0016.46] Log:  ### --- Resetting level x_checkpoints
+[0016.47] Log: No Cached BSP Physics Data Found Or Out Of Date - Cooking Now.
+[0016.47] Log: COOKEDPHYSICS: BSP 0.00 KB
+[0016.47] Log:  ### --- Resetting level dlc_mainmenugame
+[0019.30] Log: Resizing to 1280x720 (fullscreen)
+[0020.32] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0020.49] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0020.49] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0025.27] Log: --- LOADING CHECKPOINT "Admin_MainHall" ---
+[0025.27] DevGameState: Resetting GameState
+[0025.27] Log: Starting at checkpoint "Admin_MainHall" - DLC: no
+[0025.28] Log: --- LOADING MOVIE START ---
+[0025.37] Log: Starting at checkpoint "Admin_MainHall" - DLC: no
+[0025.39] Log: Flushing async loaders.
+[0025.42] Warning: Warning, Failed to compile Material Instance Asylum_post_process.PostUber.PostUberNoise with Base DefaultMaterial for platform PC-D3D-SM3, Default Material will be used in game.
+[0025.42] Log: Flushed async loaders.
+[0025.44] Log:  ### --- Resetting level adminblock_persistent
+[0025.50] Log: Committed map change via OLEngine Transient.OLEngine_0
+[0025.60] Log: Flushing async loaders.
+[0032.58] Log: Flushed async loaders.
+[0032.58] Log:  ### --- Resetting level center_block_01
+[0032.59] Log:  ### --- Resetting level center_block_01b
+[0032.76] Log:  ### --- Resetting level center_block_01c
+[0032.77] Log:  ### --- Resetting level center_block_01c_chunka
+[0032.78] Log:  ### --- Resetting level center_block_01c_chunkb
+[0032.78] Log:  ### --- Resetting level center_block_02c
+[0032.80] Log:  ### --- Resetting level center_block_elevator
+[0032.80] Log:  ### --- Resetting level adminblock_fake_outside_02-art
+[0032.82] Log:  ### --- Resetting level center_block_sript
+[0032.83] Log:  ### --- Resetting level center_block_floors_snd
+[0033.86] DevGameState: GS - Applying checkpoint Admin_MainHall
+[0033.86] Log: New master gamestate list found.
+[0033.86] Log: New master checkpoint list found.
+[0033.86] DevGameState: GS - Triggering ApplyGameState for BasementOpen with OFF
+[0033.86] DevGameState: GS - Triggering ApplyGameState for BasementDoor_Bashed_Persist with OFF
+[0035.86] Log: KISMET: Remote event WheelchairReady activated for 1 recipients
+[0039.65] Log: --- LOADING MOVIE TIME: 14.3 sec ---
+[0052.08] Log:  ### --- Resetting level center_block_01_chunka
+[0052.36] Log:  ### --- Resetting level center_block_01b_chunka
+[0054.68] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0054.68] Log: [OLHero_1] Activating adjustment of [X=19.348 Y=-74.636 Z=0.000] with heading error 4.07 degs in 0.39 seconds
+[0056.96] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0058.74] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0058.84] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_1.OLUIFrontEnd_PauseMenu_1
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[0058.84] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_1.OLUIFrontEnd_PauseMenu_1
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[0058.88] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0058.88] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0071.41] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0071.51] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_2.OLUIFrontEnd_PauseMenu_2
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[0071.51] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_2.OLUIFrontEnd_PauseMenu_2
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[0071.53] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0071.53] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0089.07] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0089.16] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_3.OLUIFrontEnd_PauseMenu_3
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[0089.16] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_3.OLUIFrontEnd_PauseMenu_3
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[0089.18] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0089.18] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0098.32] Log: ### Applying resolution 1280 x 720 (Fullscreen: yes)
+[0103.57] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0103.57] Log: [OLHero_1] Activating adjustment of [X=21.043 Y=-73.397 Z=0.000] with heading error -4.11 degs in 0.38 seconds
+[0105.82] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0106.21] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0106.34] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0106.34] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0106.35] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_4.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_4.OLUIFrontEnd_Credits_4
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[0151.70] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0151.79] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_5.OLUIFrontEnd_PauseMenu_5
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[0151.79] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_5.OLUIFrontEnd_PauseMenu_5
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[0151.81] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0151.81] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0157.26] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0157.26] Log: [OLHero_1] Activating adjustment of [X=41.211 Y=-34.987 Z=0.000] with heading error 37.63 degs in 0.27 seconds
+[0159.43] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0175.37] Log: KISMET: Remote event GUY_CROSSING_CORRIDOR activated for 1 recipients
+[0175.44] Log: Physics mode for (SkeletalMeshActor_10) is not compatible with TickGroup(0) adjusting
+[0175.64] Log:  ### --- Resetting level center_block_01b_chunkb
+[0182.30] Log: [OLHero_1] Special move started: SMT_OpenDoorPartial
+[0182.30] Log: [OLHero_1] Activating adjustment of [X=71.011 Y=-42.417 Z=0.000] with heading error 23.73 degs in 0.41 seconds
+[0183.47] Log: [OLHero_1] Special move completed: SMT_OpenDoorPartial
+[0188.44] Log: [OLHero_1] Special move started: SMT_OpenDoorInstant
+[0188.44] Log: [OLHero_1] Activating adjustment of [X=37.288 Y=93.718 Z=0.000] with heading error -26.97 degs in 0.50 seconds
+[0189.63] Log: [OLHero_1] Special move completed: SMT_OpenDoorInstant
+[0196.50] Log: [OLHero_1] Special move started: SMT_OpenDoorInstant
+[0196.50] Log: [OLHero_1] Activating adjustment of [X=27.128 Y=6.121 Z=0.000] with heading error -1.29 degs in 0.14 seconds
+[0197.68] Log: [OLHero_1] Special move completed: SMT_OpenDoorInstant
+[0203.99] DevGameState: GS - Triggering ApplyGameState for BasementOpen with OFF
+[0203.99] DevGameState: GS - Triggering ApplyGameState for BasementDoor_Bashed_Persist with OFF
+[0210.54] Log: [OLHero_1] Special move started: SMT_CloseDoor
+[0210.54] Log: [OLHero_1] Activating adjustment of [X=23.790 Y=41.453 Z=0.000] with heading error -4.11 degs in 0.24 seconds
+[0211.55] Log: [OLHero_1] Special move completed: SMT_CloseDoor
+[0235.36] Log: [OLHero_1] Special move started: SMT_JumpOnSpot
+[0236.37] Log: [OLHero_1] Special move completed: SMT_JumpOnSpot
+[0236.99] Log: [OLHero_1] Special move started: SMT_JumpOnSpot
+[0238.00] Log: [OLHero_1] Special move completed: SMT_JumpOnSpot
+[0239.56] Log: [OLHero_1] Special move started: SMT_OpenDoorInstant
+[0239.56] Log: [OLHero_1] Activating adjustment of [X=50.406 Y=-110.052 Z=0.000] with heading error 36.39 degs in 0.61 seconds
+[0240.97] Log: [OLHero_1] Special move completed: SMT_OpenDoorInstant
+[0253.10] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0253.10] Log: [OLHero_1] Activating adjustment of [X=37.481 Y=16.830 Z=0.000] with heading error -5.83 degs in 0.21 seconds
+[0255.27] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0298.24] DevGameState: GS - Triggering ApplyGameState for BasementOpen with OFF
+[0298.24] DevGameState: GS - Triggering ApplyGameState for BasementDoor_Bashed_Persist with OFF
+[0299.61] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0299.61] Log: [OLHero_1] Activating adjustment of [X=-13.034 Y=21.441 Z=0.000] with heading error -9.99 degs in 0.13 seconds
+[0301.78] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0302.72] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0302.72] Log: [OLHero_1] Activating adjustment of [X=1.019 Y=2.507 Z=0.000] with heading error 1.65 degs in 0.01 seconds
+[0304.88] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0306.42] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0306.42] Log: [OLHero_1] Activating adjustment of [X=-0.021 Y=-0.010 Z=0.000] with heading error 12.87 degs in 0.09 seconds
+[0308.60] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0310.79] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0310.79] Log: [OLHero_1] Activating adjustment of [X=-0.026 Y=-0.014 Z=0.000] with heading error 13.91 degs in 0.09 seconds
+[0312.96] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0320.04] Log: [OLHero_1] Special move started: SMT_OpenDoorInstant
+[0320.04] Log: [OLHero_1] Activating adjustment of [X=39.355 Y=15.750 Z=0.000] with heading error -3.36 degs in 0.21 seconds
+[0321.01] DevGameState: GS - Triggering ApplyGameState for BasementOpen with OFF
+[0321.01] DevGameState: GS - Triggering ApplyGameState for BasementDoor_Bashed_Persist with OFF
+[0321.21] Log: [OLHero_1] Special move completed: SMT_OpenDoorInstant
+[0326.76] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0326.76] Log: [OLHero_1] Activating adjustment of [X=10.490 Y=6.470 Z=0.000] with heading error 2.89 degs in 0.06 seconds
+[0328.94] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0381.93] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0382.02] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0382.02] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0382.03] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_6.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_6.OLUIFrontEnd_Credits_6
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[0385.46] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0385.51] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0385.51] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0385.52] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_7.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_7.OLUIFrontEnd_Credits_7
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[0385.54] ScriptWarning: Accessed None 'ItemList'
+	OLUIFrontEnd_EvidenceList DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_7.OLUIFrontEnd_EvidenceList_7
+	Function OLGame.OLUIFrontEnd_EvidenceList:PopulateItemList:0217
+[0385.54] ScriptWarning: Accessed None 'ItemList'
+	OLUIFrontEnd_EvidenceList DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_7.OLUIFrontEnd_EvidenceList_7
+	Function OLGame.OLUIFrontEnd_EvidenceList:PopulateItemList:0293
+[0388.17] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0388.23] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0388.23] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0388.23] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_8.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_8.OLUIFrontEnd_Credits_8
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[0388.26] ScriptWarning: Accessed None 'ItemList'
+	OLUIFrontEnd_EvidenceList DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_8.OLUIFrontEnd_EvidenceList_8
+	Function OLGame.OLUIFrontEnd_EvidenceList:PopulateItemList:0217
+[0388.26] ScriptWarning: Accessed None 'ItemList'
+	OLUIFrontEnd_EvidenceList DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_8.OLUIFrontEnd_EvidenceList_8
+	Function OLGame.OLUIFrontEnd_EvidenceList:PopulateItemList:0293
+[0398.14] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0398.14] Log: [OLHero_1] Activating adjustment of [X=5.976 Y=-11.580 Z=0.000] with heading error -5.95 degs in 0.07 seconds
+[0400.32] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0405.09] Log:  ### --- Resetting level center_block_01_chunkb
+[0446.69] Log: [OLHero_1] Special move started: SMT_PickupObject
+[0446.69] Log: [OLHero_1] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error 6.93 degs in 0.12 seconds
+[0447.72] Log: [OLHero_1] Special move completed: SMT_PickupObject
+[0449.76] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0449.84] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0449.84] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0449.85] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_9.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_9.OLUIFrontEnd_Credits_9
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[0506.50] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0506.50] Log: [OLHero_1] Activating adjustment of [X=22.603 Y=-16.163 Z=0.000] with heading error 9.11 degs in 0.14 seconds
+[0508.67] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0565.05] DevGameState: GS - Triggering ApplyGameState for BasementOpen with OFF
+[0565.05] DevGameState: GS - Triggering ApplyGameState for BasementDoor_Bashed_Persist with OFF
+[0608.30] Log: [OLHero_1] Special move started: SMT_PickupObject
+[0608.30] Log: [OLHero_1] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error 27.23 degs in 0.45 seconds
+[0609.33] Log: [OLHero_1] Special move completed: SMT_PickupObject
+[0630.29] Log:  ### --- Resetting level skydome_dawn
+[0630.96] Log:  ### --- Resetting level center_block_basement-art
+[0631.02] Log: KISMET: Remote event ElectricityOff activated for 4 recipients
+[0631.23] Log:  ### --- Resetting level center_block_basement-ld
+[0631.24] Log: KISMET: Remote event ConsoleButtonRed activated for 1 recipients
+[0631.30] Log:  ### --- Resetting level center_block_basement_snd
+[0634.76] Log: [OLHero_1] Special move started: SMT_TryOpenLockedDoor
+[0634.76] Log: [OLHero_1] Activating adjustment of [X=15.584 Y=-63.731 Z=0.000] with heading error -6.39 degs in 0.33 seconds
+[0636.96] Log: [OLHero_1] Special move completed: SMT_TryOpenLockedDoor
+[0645.56] Log: [OLHero_1] Special move started: SMT_CSA
+[0645.56] Log: [OLHero_1] Activating adjustment of [X=64.134 Y=-63.355 Z=0.000] with heading error 37.02 degs in 0.45 seconds
+[0646.57] Log: [OLHero_1] Special move completed: SMT_CSA
+[0647.09] Log: KISMET: Remote event Patient_Falling_ElevatorCase activated for 1 recipients
+[0676.88] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0676.93] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_10.OLUIFrontEnd_PauseMenu_10
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[0676.93] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_10.OLUIFrontEnd_PauseMenu_10
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[0676.95] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0676.95] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0761.30] Log: [OLHero_1] Special move started: SMT_Crouch
+[0762.44] Log: [OLHero_1] Special move completed: SMT_Crouch
+[0762.71] Log: [OLHero_1] Special move started: SMT_Uncrouch
+[0763.72] Log: [OLHero_1] Special move completed: SMT_Uncrouch
+[0763.84] Log: [OLHero_1] Special move started: SMT_Crouch
+[0764.99] Log: [OLHero_1] Special move completed: SMT_Crouch
+[0765.63] DevGameState: GS - Triggering ApplyGameState for BasementOpen with OFF
+[0765.63] DevGameState: GS - Triggering ApplyGameState for BasementDoor_Bashed_Persist with OFF
+[0767.87] Log: [OLHero_1] Special move started: SMT_Uncrouch
+[0768.89] Log: [OLHero_1] Special move completed: SMT_Uncrouch
+[0777.46] Log: [OLHero_1] Special move started: SMT_OpenDoorPartial
+[0777.46] Log: [OLHero_1] Activating adjustment of [X=57.090 Y=-20.495 Z=0.000] with heading error 1.18 degs in 0.30 seconds
+[0778.47] Log: [OLHero_1] Special move completed: SMT_OpenDoorPartial
+[0791.62] Log: [OLHero_1] Special move started: SMT_PickupObject
+[0791.62] Log: [OLHero_1] Activating adjustment of [X=0.000 Y=0.000 Z=0.000] with heading error 3.59 degs in 0.06 seconds
+[0791.90] Log: KISMET: Remote event Get_the_Key activated for 1 recipients
+[0791.94] Log: --- SAVING CHECKPOINT "Admin_WheelChair" ---
+[0792.65] Log: [OLHero_1] Special move completed: SMT_PickupObject
+[0801.05] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0801.18] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0801.18] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0801.19] ScriptWarning: Accessed array 'OLUIFrontEnd_Credits_11.ViewStack' out of bounds (-1/0)
+	OLUIFrontEnd_Credits DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_11.OLUIFrontEnd_Credits_11
+	Function OLGame.OLUIFrontEnd_Credits:WidgetInitialized:015E
+[0801.20] ScriptWarning: Accessed array 'InventoryNames' out of bounds (1/1)
+	OLUIFrontEnd_TabMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_11.OLUIFrontEnd_TabMenu_11
+	Function OLGame.OLUIFrontEnd_TabMenu:GetInventoryText:01FA
+[0806.46] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0806.54] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_12.OLUIFrontEnd_PauseMenu_12
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[0806.54] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_12.OLUIFrontEnd_PauseMenu_12
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[0806.56] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0806.56] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0806.58] ScriptWarning: Accessed array 'InventoryNames' out of bounds (1/1)
+	OLUIFrontEnd_TabMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_12.OLUIFrontEnd_TabMenu_12
+	Function OLGame.OLUIFrontEnd_TabMenu:GetInventoryText:01FA
+[0812.58] DevGameState: GS - Triggering ApplyGameState for BasementOpen with OFF
+[0812.58] DevGameState: GS - Triggering ApplyGameState for BasementDoor_Bashed_Persist with OFF
+[0814.78] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0814.87] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_13.OLUIFrontEnd_PauseMenu_13
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0400
+[0814.87] ScriptWarning: Accessed None 'ButtonBar'
+	OLUIFrontEnd_PauseMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_13.OLUIFrontEnd_PauseMenu_13
+	Function OLGame.OLUIFrontEnd_PauseMenu:PopulateButtons:0436
+[0814.89] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0814.89] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0814.91] ScriptWarning: Accessed array 'InventoryNames' out of bounds (1/1)
+	OLUIFrontEnd_TabMenu DLC_Intro_Persistent.TheWorld:PersistentLevel.OLHUD_0.OLUIFrontEnd_13.OLUIFrontEnd_TabMenu_13
+	Function OLGame.OLUIFrontEnd_TabMenu:GetInventoryText:01FA
+[0854.17] Log: --- SAVING CHECKPOINT "Admin_WheelChair" ---
+[0854.17] DevGameState: Resetting GameState
+[0854.18] Log: LoadMap: DLC_Intro_Persistent?Name=Player?Team=255
+[0854.19] Log: --- LOADING MOVIE START ---
+[0855.13] Log: Game class is 'OLGame'
+[0855.14] Log: Primary PhysX scene will be in software.
+[0855.14] Log: Creating Primary PhysX Scene.
+[0855.14] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[0855.14] Log: Bringing World DLC_Intro_Persistent.TheWorld up for play (0) at 2019.12.12-09.30.20
+[0855.14] Log: Bringing up level for play took: 0.011831
+[0855.15] Log: Playing DLC - invalid checkpoint but DLC persistent
+[0857.17] Log: Reloaded all WWise Banks for DLC
+[0857.18] Error: Can't start an online game that hasn't been created
+[0857.20] Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[0857.20] Log: ########### Finished loading level: 3.022876 seconds
+[0857.20] Log: Flushing async loaders.
+[0857.25] Log: Flushed async loaders.
+[0857.25] Log: ActivateLevel dlc_mainmenugame 1 1 1
+[0857.25] Log: ### Applying resolution 1280 x 720 (Fullscreen: yes)
+[0857.29] Log: Flushing async loaders.
+[0857.35] Log: Flushed async loaders.
+[0857.35] Log:  ### --- Resetting level dlc_checkpoints
+[0857.36] Log:  ### --- Resetting level x_checkpoints
+[0857.36] Log: No Cached BSP Physics Data Found Or Out Of Date - Cooking Now.
+[0857.36] Log: COOKEDPHYSICS: BSP 0.00 KB
+[0857.36] Log:  ### --- Resetting level dlc_mainmenugame
+[0857.56] Log: ### UpdateProfileFromSystemSettings - Current resolution is SR_1280x720 (1280 x 720, fullscreen: yes)
+[0857.70] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0857.70] Warning: Warning, Failed to load 'Font None.Times New Roman': Failed to find object 'Font None.Times New Roman'
+[0858.87] Log: --- LOADING MOVIE TIME: 4.67 sec ---
+[0861.67] Log: Closing by request
+[0861.67] Log: appRequestExit(0)
+[0861.80] Exit: Preparing to exit.
+[0862.12] Exit: Game engine shut down
+[0862.70] Exit: Windows client shut down
+[0862.76] Exit: XAudio2 Device shut down.
+[0862.92] Exit: AK Audio shut down.
+[0863.17] Exit: Object subsystem successfully closed.
+[0863.24] Log: Shutting down FaceFX...
+[0863.24] Log: FaceFX shutdown.
+[0863.35] Exit: Exiting.
+[0863.38] Log: Log file closed, 12/12/19 09:30:28
